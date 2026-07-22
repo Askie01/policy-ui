@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /policies
+
+spring:
+  application:
+    name: policy-ui
